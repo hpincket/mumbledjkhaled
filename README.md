@@ -1,5 +1,8 @@
-MumbleDJ
+MumbleDJKhaled
 ========
+
+Where we add DJKhaled shoutouts to random songs
+
 **A Mumble bot that plays music fetched from YouTube videos and SoundCloud tracks.**
 
 * [Usage](#usage)
